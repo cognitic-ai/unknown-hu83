@@ -1,3 +1,5 @@
+console.log("hello from my custom config");
+
 // Learn more https://docs.expo.io/guides/customizing-metro
 const { getDefaultConfig } = require('expo/metro-config');
 
